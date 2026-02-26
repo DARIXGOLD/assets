@@ -1,0 +1,11 @@
+{
+  "name": "Darix",
+  "symbol": "DARIX",
+  "type": "ERC20",
+  "decimals": 14,
+  "description": "Darix (DARIX) is a value-oriented token on Polygon designed for daily payments with a focus on long-term value and transparent governance.",
+  "website": "https://darixgold.com",
+  "explorer": "https://polygonscan.com/token/0x8d1e8f9482f88c33DA4e7513d370039b9EadeABe",
+  "status": "active",
+  "id": "0x8d1e8f9482f88c33DA4e7513d370039b9EadeABe"
+}
